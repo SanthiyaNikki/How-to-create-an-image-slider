@@ -1,0 +1,14 @@
+#slider-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+#slider {
+  display: flex;
+  transition: transform 0.5s;
+}
+
+img {
+  width: 100%;
+}
